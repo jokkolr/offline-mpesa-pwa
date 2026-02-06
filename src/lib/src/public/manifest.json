@@ -1,0 +1,10 @@
+{
+  "name": "Offline M-Pesa PWA",
+  "short_name": "M-Pesa PWA",
+  "description": "Offline-first merchant web application with M-Pesa payments",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0a7cff",
+  "orientation": "portrait-primary"
+}
